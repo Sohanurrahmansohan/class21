@@ -1,0 +1,45 @@
+
+img{
+    max-width: 100%;
+}
+
+.slider-content{
+    top: 38%;
+}
+
+.third-section{
+    padding: 50px 0;
+}
+
+.table-section{
+    background-color: #f8f9fa;
+    padding: 50px 0;
+}
+.card-head{
+    font-weight: 700;
+}
+.title{
+    font-weight: 600;
+    font-size: 18px;
+    margin-bottom: 0;
+}
+.card-weight{
+    font-weight: 500;
+}
+.lorem{
+    font-weight: 500;
+}
+
+.c-a{
+    margin-right: 13px;
+}
+
+.card-last{
+    background-color: #f8f9fa;
+}
+
+.footer-bottom p{
+    font-size: 18px;
+    margin-bottom: 0;
+    padding: 28px 0;
+}
